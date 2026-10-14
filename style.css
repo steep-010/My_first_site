@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: whitesmoke;
+}
+ 
+title { 
+    color: #0f172a; 
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    font-size: 24px;
+    color: blueviolet;
+}
+
+img {
+    height: 50px;
+}
